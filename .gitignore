@@ -1,0 +1,6 @@
+#Eclipse files to ignore
+.vscode
+.settings/
+.classpath
+.project
+target/
